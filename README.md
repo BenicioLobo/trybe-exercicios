@@ -3,22 +3,22 @@
   
   
 Bloco 01: Unix & Bash<br>
-	1.1: Fundamentos do Desenvolvimento Web               OK<br>
-	1.1: Introdução - Unix & Shell                        OK<br>
-	1.2: Unix & Bash - Parte 1                            OK<br>
-	1.3: Unix & Bash - Parte 2                            OK<br><br>
+	 OK 1.1: Fundamentos do Desenvolvimento Web               <br>
+	 OK 1.1: Introdução - Unix & Shell                        <br>
+	 OK 1.2: Unix & Bash - Parte 1                            <br>
+	 OK 1.3: Unix & Bash - Parte 2                            <br><br>
 
 Bloco 02: Git, GitHub e Internet<br>
-	2.1: Git & GitHub - O que é e para que serve           OK<br>
-	2.2: Git & GitHub - Entendendo os comandos             OK<br>
-	2.3: Internet - Entendendo como ela funciona           OK<br><br>
+	 OK 2.1: Git & GitHub - O que é e para que serve           <br>
+	 OK 2.2: Git & GitHub - Entendendo os comandos             <br>
+	 OK 2.3: Internet - Entendendo como ela funciona          <br><br>
 
-Bloco 03: Introdução à HTML e CSS                              OK OK<br>
-	3.1: Introdução - HTML & CSS                           OK<br>
-	3.1: HTML & CSS - Estruturas de página                 OK<br>
-	3.2: HTML & CSS - Primeiros passos em CSS              OK<br>
-	3.3: HTML & CSS - Seletores e posicionamento           OK<br>
-	3.4: HTML Semântico<br>
+Bloco 03: Introdução à HTML e CSS                   		 <br>
+	 OK 3.1: Introdução - HTML & CSS             		 <br>
+	 OK 3.1: HTML & CSS - Estruturas de página          	<br>
+	 OK 3.2: HTML & CSS - Primeiros passos em CSS     	 <br>
+	 OK 3.3: HTML & CSS - Seletores e posicionamento    	<br>
+	3.4: HTML Semântico<br>	
 	3.5: Projeto - Lessons Learned<br><br>
 	
 Bloco 04: Introdução à JavaScript e Lógica de Programação<br>
